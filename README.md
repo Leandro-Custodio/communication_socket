@@ -1,5 +1,7 @@
 # communication_socket
-## communication through a socket between two clients
+
+## functionality and purpose
+### communication through a socket between two clients
 
 ## Steps for initialize:
 * 1º server.py
